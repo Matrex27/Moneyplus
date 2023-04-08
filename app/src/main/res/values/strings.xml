@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Money+</string>
+    <string name="hi_default_text">Hi,</string>
+    <string name="movements_card_text">Movements</string>
+    <string name="pockets_card_text">Pockets</string>
+    <string name="takemoney_card_text">Take money</string>
+    <string name="savemoney_card_text">Save money</string>
+</resources>
